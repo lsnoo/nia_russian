@@ -1,3 +1,5 @@
+## NEED to install wget
+
 import json
 import wget
 import re
