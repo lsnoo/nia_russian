@@ -1,0 +1,4 @@
+Do g2p with .csv file at '../russian_g2p' directory
+Activate the conda environment 'russian'
+Use the file: 'g2p_ru_nia.py'
+*** check the name of csv file and path to save!
